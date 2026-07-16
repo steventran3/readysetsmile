@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="15" fill="#f3efe5"/>
+  <text x="5" y="46" fill="#11100f" font-family="Snell Roundhand, Segoe Script, Brush Script MT, cursive" font-size="43" font-style="italic" letter-spacing="-8">rss</text>
+  <circle cx="54" cy="51" r="3" fill="#b38a3b"/>
+</svg>
